@@ -1,0 +1,12 @@
+file_format: "1"
+id: jak
+name: Jak
+type: shield
+url: https://github.com/drewlwhitney/jak
+requires: [pro_micro]
+features:
+  - keys
+  - studio
+siblings:
+  - corne_left
+  - corne_right
