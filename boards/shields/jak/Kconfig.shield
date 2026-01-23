@@ -1,5 +1,5 @@
 config SHIELD_JAK_LEFT
-    def_bool $(shields_list_contains,corne_jak)
+    def_bool $(shields_list_contains,jak_left)
 
 config SHIELD_JAK_RIGHT
-    def_bool $(shields_list_contains,corne_jak)
+    def_bool $(shields_list_contains,jak_right)
