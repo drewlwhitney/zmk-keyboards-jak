@@ -1,1 +1,0 @@
-- Test with GitHub Actions and by compiling locally.
