@@ -1,2 +1,1 @@
-- See if you can remove the [Kconfig](./Kconfig) file.
 - Test with GitHub Actions and by compiling locally.

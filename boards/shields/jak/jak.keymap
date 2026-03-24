@@ -1,4 +1,4 @@
-// Heavily adapted from cradio's default keymap: TODO: GitHub link
+// Heavily adapted from cradio's default keymap: https://github.com/zmkfirmware/zmk/tree/main/app/boards/shields/cradio
 
 #include <behaviors.dtsi>
 #include <dt-bindings/zmk/keys.h>
