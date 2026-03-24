@@ -12,3 +12,16 @@ followed by
 ```
 zmk module add https://github.com/drewlwhitney/zmk-keyboards-jak.git
 ```
+
+<br>
+
+To create add the keyboard, run
+
+```
+zmk keyboard add
+```
+
+and select `jak` for the keyboard. For the controller, select:
+- `seeeduino_xiao_ble` for wireless
+
+- `seeeduino_xiao_rp2040` for wired
