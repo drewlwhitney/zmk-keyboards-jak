@@ -3,7 +3,7 @@ id: jak
 name: Jak
 type: shield
 url: https://github.com/drewlwhitney/jak
-requires: [xiao_ble]
+requires: [seeed_xiao]
 features:
   - keys
   - studio
