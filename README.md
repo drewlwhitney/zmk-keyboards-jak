@@ -15,7 +15,7 @@ zmk module add https://github.com/drewlwhitney/zmk-keyboards-jak.git
 
 <br>
 
-To create add the keyboard, run
+To add the keyboard, run
 
 ```
 zmk keyboard add
