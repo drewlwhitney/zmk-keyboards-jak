@@ -25,7 +25,7 @@ and select `jak` for the keyboard. For the controller, select:
 - `xiao_rp2040` for wired (with the [XIAO-RP2040](https://wiki.seeedstudio.com/XIAO-RP2040/)), see below
 
 ### Wired
-Add
+For wired builds, you also need to add
 
 ```c++
 / {
