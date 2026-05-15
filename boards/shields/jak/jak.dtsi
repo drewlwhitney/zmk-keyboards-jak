@@ -36,10 +36,4 @@
     chosen {
         zmk,physical-layout = &physical_layout0;
     };
-
-    // not using for now, but will test later
-    // wired_split {
-    //     compatible = "zmk,wired-split";
-    //     device = <&xiao_d_serial>;
-    // };
 };
